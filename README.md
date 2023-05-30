@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gabaugusto/social.git
+git clone https://github.com/gabaugusto/social-network-clone.git
 ```
 
 2. Navigate to the project directory:
